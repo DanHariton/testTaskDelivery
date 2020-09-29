@@ -1,0 +1,16 @@
+{
+    "name": "danhariton/test-task-delivery",
+    "authors": [
+        {
+            "name": "danhariton",
+            "email": "danilhariton@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"testTaskDelivery\\": "src/"}
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    }
+}
